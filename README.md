@@ -4,7 +4,7 @@ Temas:
 # Menor Distancia entre pontos
 
 **Número da Lista**: 44<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Algoritmos de dividir e conquistar<br>
 
 ## Alunos
 |Matrícula | Aluno |
@@ -13,10 +13,12 @@ Temas:
 | 18/0121847  |  Helder Lourenço de Abreu Marques |
 
 ## Sobre 
-Desejamos encontrar a menor distância entre pontos distintos usando mediana de mediana e distancia euclidiana.
+Desejamos encontrar a menor distância entre diversos pontos distintos usando mediana de mediana e distancia euclidiana.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![Tela inicial do projeto](images/Tela_inicial.jpeg)
+![Pontos inseridos](images/Pontos_inseridos.jpeg)
+![Menor distância entre pontos encontrada](images/Menor_encontrado.jpeg)
 
 ## Instalação 
 **Linguagem**: Python<br>
