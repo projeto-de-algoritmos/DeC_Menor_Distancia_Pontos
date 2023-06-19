@@ -13,7 +13,7 @@ Temas:
 | 18/0121847  |  Helder Lourenço de Abreu Marques |
 
 ## Sobre 
-Desejamos encontrar a menor distanciia entre pontos distintos usando mediana de mediana e distancia euclidiana.
+Desejamos encontrar a menor distância entre pontos distintos usando mediana de mediana e distancia euclidiana.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
