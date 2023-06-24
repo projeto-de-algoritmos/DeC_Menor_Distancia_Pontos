@@ -39,3 +39,5 @@ python3 main.py
 ```
 ## Link do vídeo no youtube
 https://youtu.be/POkQYqxgnOw
+
+Tambem está disponivel na raiz deste projeto na pasta com nome "Video"
